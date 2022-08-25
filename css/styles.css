@@ -11425,6 +11425,12 @@ section.resume-section .resume-section-content1 {
   flex-wrap: wrap;
   width: auto;
 }
+.box{
+  font-size: 20px;
+  align-items: center;
+  display: flex;
+}
+
 
 @media (min-width: 768px) {
   section.resume-section {
