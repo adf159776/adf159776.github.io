@@ -11421,7 +11421,7 @@ section.resume-section .resume-section-content {
 }
 section.resume-section .resume-section-content1 {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-wrap: wrap;
   width: auto;
 }
