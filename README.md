@@ -1,4 +1,4 @@
 Hi, I am Jeff<br>
-This is My Personal Web Page<br>
+This is my PWP<br>
 Check out!<br>
 https://meetjeff.github.io
