@@ -11536,10 +11536,10 @@ section.resume-section .resume-section-content1 {
   background: #fff; */
   position: absolute;
   left: 0%;
-  top: 100px;
+  top: auto;
   width: auto;
-  height: 70px;
-  font-size: 25px;
+  height: auto;
+  font-size: auto;
   text-align: center;
   line-height: 60px;
   -webkit-transform:scaleY(0);
