@@ -11425,8 +11425,20 @@ section.resume-section .resume-section-content1 {
   flex-wrap: wrap;
   width: auto;
 }
+section.resume-section .resume-section-content2 {
+  display: flex;
+  /* justify-content: space-around; */
+  flex-wrap: wrap;
+  width: auto;
+}
 .box{
   font-size: 22px;
+  align-items: center;
+  display: flex;
+}
+.box2{
+  margin-top: 20px;
+  margin-right: 150px;
   align-items: center;
   display: flex;
 }
@@ -11444,6 +11456,12 @@ section.resume-section .resume-section-content1 {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+}
+
+.card {
+  width: 270px;
+  height: 145px;
+  box-shadow: 0 0 5px;
 }
 
 .slider_container {
