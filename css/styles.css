@@ -11426,7 +11426,7 @@ section.resume-section .resume-section-content1 {
   width: auto;
 }
 .box{
-  font-size: 30px;
+  font-size: 22px;
   align-items: center;
   display: flex;
 }
@@ -11603,5 +11603,20 @@ section.resume-section .resume-section-content1 {
 }
 
 .job{
-  font-size: 25px;
+  font-size: 20px;
+}
+
+.videobox {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+
+.videobox iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
